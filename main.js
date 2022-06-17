@@ -45,14 +45,14 @@ const app = {
         {
             name: 'Save Your Tears',
             singer: 'The Weeknd',
-            path: './musics/song1.mp3',
-            image: './images/song1.jpg'
+            path: './musics/song1.MP3',
+            image: './images/song1.JPG'
         },
         {
             name: 'Light Switch',
             singer: 'Charlie Puth',
-            path: './musics/song2.mp3',
-            image: './images/song2.jpg'
+            path: './musics/song2.MP3',
+            image: './images/song2.JPG'
         },
         {
             name: 'I Like You',
