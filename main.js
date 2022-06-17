@@ -63,8 +63,8 @@ const app = {
         {
             name: 'Wrecked',
             singer: 'Imagine Dragon',
-            path: '/musics/song4.mp3',
-            image: '/images/song4.jpg'
+            path: './musics/song4.mp3',
+            image: './images/song4.jpg'
         },
         {
             name: 'Red Right Hand',
