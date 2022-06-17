@@ -45,50 +45,50 @@ const app = {
         {
             name: 'Save Your Tears',
             singer: 'The Weeknd',
-            path: './musics/song1.MP3',
-            image: './images/song1.JPG'
+            path: '/musics/song1.mp3',
+            image: '/images/song1.jbg'
         },
         {
             name: 'Light Switch',
             singer: 'Charlie Puth',
-            path: './musics/song2.MP3',
-            image: './images/song2.JPG'
+            path: '/musics/song2.mp3',
+            image: '/images/song2.jp3'
         },
         {
             name: 'I Like You',
             singer: 'Post Malone',
-            path: '.musics/song3.mp3',
-            image: '.images/song3.jpg'
+            path: '/musics/song3.mp3',
+            image: '/images/song3.jpg'
         },    
         {
             name: 'Wrecked',
             singer: 'Imagine Dragon',
-            path: '.musics/song4.mp3',
-            image: '.images/song4.jpg'
+            path: '/musics/song4.mp3',
+            image: '/images/song4.jpg'
         },
         {
             name: 'Red Right Hand',
             singer: 'Nick Cave And The Bad Seeds',
-            path: '.musics/song5.mp3',
-            image: '.images/thomas.jpg'
+            path: '/musics/song5.mp3',
+            image: '/images/thomas.jpg'
         },
         {
             name: 'Goodbyes',
             singer: 'Post Malone',
-            path: '.musics/song6.mp3',
-            image: '.images/song3.jpg'
+            path: '/musics/song6.mp3',
+            image: '/images/song3.jpg'
         },
         {
             name: 'Wont Go Home Without you',
             singer: 'Maroon 5',
-            path: '.musics/song7.mp3',
-            image: '.images/song6.jpg'
+            path: '/musics/song7.mp3',
+            image: '/images/song6.jpg'
         },
         {
             name: 'Its Time',
             singer: 'Imagine Dragon',
-            path: '.musics/song8.mp3',
-            image: '.images/imagedragon.jpg'
+            path: '/musics/song8.mp3',
+            image: '/images/imagedragon.jpg'
         }     
     ],
 
